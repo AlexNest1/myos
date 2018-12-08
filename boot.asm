@@ -3,7 +3,7 @@ org 0x7C00
 start:
 
 mov ah,00h
-mov al,13h
+mov al,03h
 int 10h
 
 jmp $
