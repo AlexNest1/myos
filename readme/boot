@@ -1,0 +1,5 @@
+Creating a bootable flash drive:
+1) Connect the flash drive to your computer.
+2) fdisk /dev/sdb
+3) Create a primary partition
+4) 
