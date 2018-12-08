@@ -6,6 +6,10 @@ mov ah,00h
 mov al,03h
 int 10h
 
+mov ah,09h
+mov al,100
+int 10h
+
 jmp $
 
 finish:
